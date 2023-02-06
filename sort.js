@@ -1,5 +1,6 @@
 //var number = [19, 3, 81, 1, 24, 21];
 //console.log(number);
+//add-sort-func1
 
 var sortNumber = function (number) {
   number.sort(function (a, b) {
